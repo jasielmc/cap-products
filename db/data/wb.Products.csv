@@ -1,2 +1,2 @@
-ID,Product,Description,Ranking,CategoryID
-123,Laptop,Dell XS9800,5,1
+ID,Product,Description,Ranking,Category_ID
+f38b19e9-63df-4129-8c93-036e4e4aff18,Laptop,Dell XS9800,5,fa4811b3-1216-400e-b688-1122d7cbac1d
